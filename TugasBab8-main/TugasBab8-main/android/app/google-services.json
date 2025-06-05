@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106712786667",
+    "project_id": "asepapp-6cfe6",
+    "storage_bucket": "asepapp-6cfe6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106712786667:android:eb6f07c3e69bf6f3d400ae",
+        "android_client_info": {
+          "package_name": "com.woco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdVdXqIWqE8-Mo87XQPBT5PW-QNpKY_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
